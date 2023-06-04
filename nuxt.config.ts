@@ -1,6 +1,7 @@
 export default {
   modules: [
     '@unocss/nuxt',
+    '@huntersofbook/naive-ui-nuxt',
   ],
   unocss: {
     uno: true, // enabled `@unocss/preset-uno`
